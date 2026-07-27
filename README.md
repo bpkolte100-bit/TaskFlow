@@ -150,35 +150,6 @@ Frontend runs on:
 
 ```text
 http://localhost:5173
-```
-
----
-
-# Screenshots
-
-Add screenshots of the application in this section.
-
-- Login Page
-- Register Page
-- Dashboard
-- My Tasks
-- Add Task
-- Calendar
-- Analytics
-
----
-
-# Future Enhancements
-
-- JWT Authentication
-- Email Notifications
-- File Attachments
-- Dark Mode
-- Search and Filter Tasks
-- Due Date Reminders
-- Drag and Drop Task Board
-- User Profile Management
-
 ---
 
 # Developer
